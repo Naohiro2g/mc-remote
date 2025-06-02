@@ -53,3 +53,5 @@ References:
 - Integrate artificial intelligence technologies. For instance, allow playing rock-paper-scissors with hand gestures in the Minecraft world using computer vision and machine learning.
 
 ---
+
+Copyright &copy; Code2CreateClub All Rights Reserved.
