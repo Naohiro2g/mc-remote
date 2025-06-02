@@ -26,10 +26,10 @@ It is based on projects such as `RaspberryJuice` by zhowei, `mcpi` by martinohan
 
 References:
 
-- https://github.com/zhuowei/RaspberryJuice
-- https://github.com/martinohanlon/mcpi
-- https://github.com/wensheng/JuicyraspberryPie
-- https://www.media.mit.edu/groups/lifelong-kindergarten
+- [https://github.com/zhuowei/RaspberryJuice](https://github.com/zhuowei/RaspberryJuice)
+- [https://github.com/martinohanlon/mcpi](https://github.com/martinohanlon/mcpi)
+- [https://github.com/wensheng/JuicyraspberryPie](https://github.com/wensheng/JuicyraspberryPie)
+- [https://www.media.mit.edu/groups/lifelong-kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten)
 
 ## The Clear Mission of the Minecraft Remote Project
 
