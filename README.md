@@ -6,7 +6,7 @@ Followings are the links to the repositories of the project.
 - API/Client in Python [minecraft-remote-api](https://github.com/Naohiro2g/minecraft-remote-api)
 - Sample codes in Python [mc_remote_samples](https://github.com/Naohiro2g/mc_remote_samples)
 
-For more information, please visit us at [```mc-remote.com```](https://mc-remote.com) which is the Official Information Center of the Minecraft Remote Project. (Under construction)
+For more information, please visit us at [```mc-remote.com```](https://mc-remote.com) which is the Official Information Center of the Minecraft Remote Project.
 
 [<img src="images/mc-remote_com-logo.png" alt="Minecraft Remote Logo" width="360" />](https://mc-remote.com)
 
